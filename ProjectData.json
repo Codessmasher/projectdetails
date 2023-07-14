@@ -22,7 +22,7 @@
         "p_desc":"Developed Eplacement, a comprehensive placement management website for our college, aimed at streamlining the placement process",
         "see":"https://bvecplacement.great-site.net/",
         "source":"https://github.com/MiniProjectTeam12/EPlacement",
-        "bgcolor":"pink"
+        "bgcolor":"violet"
 
     },
     {
@@ -36,10 +36,10 @@
     {
         "p_name":"Bird Shooter Game",
         "p_dt":"April,2022",
-        "p_desc":"It is a simple javascript bird shooter game",
+        "p_desc":"It is a simple bird shooter game built using javascript, HTML, CSS",
         "see":"https://codessmasher.github.io/bird_game_js/fly.html",
         "source":"https://github.com/Codessmasher/bird_game_js",
-        "bgcolor":"blue"
+        "bgcolor":"green"
     }
     
    
